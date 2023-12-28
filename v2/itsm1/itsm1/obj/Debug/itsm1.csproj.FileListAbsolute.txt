@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\itsm1\itsm1\bin\Debug\itsm1.exe.config
+C:\Users\Administrator\source\repos\itsm1\itsm1\bin\Debug\itsm1.exe
+C:\Users\Administrator\source\repos\itsm1\itsm1\bin\Debug\itsm1.pdb
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.Form1.resources
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.Login.resources
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.Register.resources
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.exe
+C:\Users\Administrator\source\repos\itsm1\itsm1\obj\Debug\itsm1.pdb
